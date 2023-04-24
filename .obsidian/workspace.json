@@ -11,8 +11,12 @@
             "id": "0e1bdd6c84f6ffc2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md"
+              }
             }
           }
         ]
@@ -138,6 +146,53 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0e1bdd6c84f6ffc2",
-  "lastOpenFiles": []
+  "active": "b5cbb5c4da5aa2b9",
+  "lastOpenFiles": [
+    "+ Encounters/艾尔登法环.md",
+    "+ Encounters/+ 关于 Encounters.md",
+    "Calendar/2025-03-15.md",
+    "Calendar/2024-07-01.md",
+    "Calendar/2023-04-22.md",
+    "Calendar/2022-08-24.md",
+    "Calendar/2022-08-16.md",
+    "Calendar/2021-06-01.md",
+    "Calendar/2020-08-01.md",
+    "Calendar/2020-06-13 - 鲍勃·贝恩(Bob Bain)谈阅读理解.md",
+    "Calendar/2020-06-01.md",
+    "Calendar/2020-04-17 - 与 Dataview 插件作者 Tres Brenan 的线上讨论会.md",
+    "Calendar/2019-01-25 弹性程序.md",
+    "Calendar/2015-02-20 习惯的概念和理论.md",
+    "Calendar/2015-02-20 习惯养成的研究文章.md",
+    "Calendar/2013-03-10 习惯规划.md",
+    "Calendar/+ 关于 Calendar.md",
+    "Calendar",
+    "Cards/魔方.md",
+    "Cards/集体智慧.md",
+    "Cards/随意构建一个关于习惯的文章.md",
+    "Cards/阴阳.md",
+    "Cards/链接编排的艺术.md",
+    "Cards/铺垫.md",
+    "Cards/重要的习惯可以保持精神上的清醒和控制感.md",
+    "Cards/重复.md",
+    "Cards/适者生存.md",
+    "Cards",
+    "Spaces/我的邮件订阅",
+    "Spaces",
+    "Sources",
+    "+ Encounters",
+    "Atlas",
+    "Extras/Images/专注于目标.jpg",
+    "Extras/Images/wolverine-tethered.jpg",
+    "Extras/Images/sort-by-file-name-a-to-z.png",
+    "Extras/Images/ptolemy-model.png",
+    "Extras/Images/pale-blue-dot-banner.jpg",
+    "Extras/Images/lyt-note-links-to-other-notes.png",
+    "Extras/Images/lyt-mode-graphic-1.jpg",
+    "Extras/Images/lyt-mapping-the-flexible-flow-of-ideas.jpg",
+    "Extras/Images/lyt-logo-04.png",
+    "Extras/Images/lyt-kit-example-cooling-pad-.jpg",
+    "Extras/Templates",
+    "Extras/People",
+    "Extras/Images"
+  ]
 }
