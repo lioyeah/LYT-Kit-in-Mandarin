@@ -127,7 +127,7 @@
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": true
+      "enabled": false
     },
     "unordered-list-style": {
       "enabled": false,
