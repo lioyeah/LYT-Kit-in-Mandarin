@@ -1,4 +1,4 @@
-up:: [[LYT 适合我吗？]]
+up:: [[LYT 是否适合我]]
 
 tags:: #on/Reps 
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md",
+                "file": "LYT 工具包.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md",
+                "file": "LYT 工具包.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md",
+                "file": "LYT 工具包.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md"
+                "file": "LYT 工具包.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b5cbb5c4da5aa2b9",
+  "active": "0e1bdd6c84f6ffc2",
   "lastOpenFiles": [
+    "Cards/MOC 以灵活性和非破坏性为原则.md",
+    "LYT 工具包.md",
+    "Cards/什么是笔记.md",
+    "Cards/LYT 框架有哪些特点.md",
+    "Cards/LYT 是否适合我.md",
+    "主页.md",
+    "Cards/我应该在 \"Sources\" 下创建一个「文章」文件夹吗.md",
     "+ Encounters/艾尔登法环.md",
     "+ Encounters/+ 关于 Encounters.md",
     "Calendar/2025-03-15.md",
@@ -168,13 +175,6 @@
     "Calendar",
     "Cards/魔方.md",
     "Cards/集体智慧.md",
-    "Cards/随意构建一个关于习惯的文章.md",
-    "Cards/阴阳.md",
-    "Cards/链接编排的艺术.md",
-    "Cards/铺垫.md",
-    "Cards/重要的习惯可以保持精神上的清醒和控制感.md",
-    "Cards/重复.md",
-    "Cards/适者生存.md",
     "Cards",
     "Spaces/我的邮件订阅",
     "Spaces",
