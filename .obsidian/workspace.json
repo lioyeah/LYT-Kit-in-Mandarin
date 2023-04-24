@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LYT 工具包.md",
+                "file": "Cards/什么是高阶笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LYT 工具包.md",
+                "file": "Cards/什么是高阶笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LYT 工具包.md",
+                "file": "Cards/什么是高阶笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LYT 工具包.md"
+                "file": "Cards/什么是高阶笔记.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "0e1bdd6c84f6ffc2",
   "lastOpenFiles": [
-    "Cards/MOC 以灵活性和非破坏性为原则.md",
+    "README.md",
     "LYT 工具包.md",
+    "Cards/MOC 以灵活性和非破坏性为原则.md",
     "Cards/什么是笔记.md",
     "Cards/LYT 框架有哪些特点.md",
     "Cards/LYT 是否适合我.md",
@@ -174,7 +175,6 @@
     "Calendar/+ 关于 Calendar.md",
     "Calendar",
     "Cards/魔方.md",
-    "Cards/集体智慧.md",
     "Cards",
     "Spaces/我的邮件订阅",
     "Spaces",
