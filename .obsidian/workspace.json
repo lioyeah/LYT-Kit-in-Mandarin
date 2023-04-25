@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cards/功能强制.md",
+                "file": "Atlas/概念 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cards/功能强制.md",
+                "file": "Atlas/概念 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cards/功能强制.md",
+                "file": "Atlas/概念 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cards/功能强制.md"
+                "file": "Atlas/概念 MOC.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "0e1bdd6c84f6ffc2",
   "lastOpenFiles": [
-    "Atlas/概念 MOC.md",
     "Cards/功能强制.md",
+    "Atlas/概念 MOC.md",
     "Cards/影分身.md",
     "Atlas/地点 MOC.md",
     "Atlas/成果.md",
