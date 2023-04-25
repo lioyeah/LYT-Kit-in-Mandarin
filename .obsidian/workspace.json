@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "+ Encounters/运用三角测量原理进行意义建构.md",
+                "file": "Atlas/概念 MOC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "+ Encounters/运用三角测量原理进行意义建构.md",
+                "file": "Atlas/概念 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "+ Encounters/运用三角测量原理进行意义建构.md",
+                "file": "Atlas/概念 MOC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "+ Encounters/运用三角测量原理进行意义建构.md"
+                "file": "Atlas/概念 MOC.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,17 +147,22 @@
   },
   "active": "0e1bdd6c84f6ffc2",
   "lastOpenFiles": [
-    "Cards/运用三角测量的原理进行意义建构.md",
+    "Cards/影分身.md",
+    "Atlas/概念 MOC.md",
+    "Atlas/地点 MOC.md",
+    "Atlas/成果.md",
+    "Atlas/财务 MOC.md",
+    "Atlas/+ 关于 Atlas.md",
     "+ Encounters/运用三角测量原理进行意义建构.md",
-    "+ Encounters/成果和项目之间的核心区别.md",
-    "LYT 工具包.md",
-    "主页.md",
-    "+ Encounters/听力补偿.md",
     "+ Encounters/艾尔登法环.md",
     "+ Encounters/+ 关于 Encounters.md",
-    "+ Encounters/我们早就发现了外星人……只是称它们为蜜蜂而已.md",
     "README.md",
-    "Atlas/+ 关于 Atlas.md",
+    "LYT 工具包.md",
+    "+ Encounters/我们早就发现了外星人……只是称它们为蜜蜂而已.md",
+    "+ Encounters/听力补偿.md",
+    "+ Encounters/成果和项目之间的核心区别.md",
+    "Cards/运用三角测量原理进行意义建构.md",
+    "主页.md",
     "Cards/柔性框架.md",
     "Cards/什么是高阶笔记.md",
     "Cards/我应该在 Sources 下创建一个「文章」文件夹吗.md",
@@ -169,11 +173,6 @@
     "Calendar/2025-03-15.md",
     "Calendar/2024-07-01.md",
     "Calendar/2023-04-22.md",
-    "Calendar/2022-08-24.md",
-    "Calendar/2022-08-16.md",
-    "Calendar/2021-06-01.md",
-    "Calendar/2020-08-01.md",
-    "Calendar/2020-06-13 - 鲍勃·贝恩(Bob Bain)谈阅读理解.md",
     "Calendar",
     "Cards",
     "Spaces/我的邮件订阅",
