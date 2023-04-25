@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/概念 MOC.md",
+                "file": "Cards/功能强制.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/概念 MOC.md",
+                "file": "Cards/功能强制.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/概念 MOC.md",
+                "file": "Cards/功能强制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/概念 MOC.md"
+                "file": "Cards/功能强制.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "0e1bdd6c84f6ffc2",
   "lastOpenFiles": [
-    "Cards/影分身.md",
     "Atlas/概念 MOC.md",
+    "Cards/功能强制.md",
+    "Cards/影分身.md",
     "Atlas/地点 MOC.md",
     "Atlas/成果.md",
     "Atlas/财务 MOC.md",
@@ -172,7 +173,6 @@
     "Cards/LYT 是否适合我.md",
     "Calendar/2025-03-15.md",
     "Calendar/2024-07-01.md",
-    "Calendar/2023-04-22.md",
     "Calendar",
     "Cards",
     "Spaces/我的邮件订阅",
