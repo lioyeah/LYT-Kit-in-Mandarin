@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas/概念 MOC.md",
+                "file": "Atlas/Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Atlas/概念 MOC.md",
+                "file": "Atlas/Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Atlas/概念 MOC.md",
+                "file": "Atlas/Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Atlas/概念 MOC.md"
+                "file": "Atlas/Inbox.md"
               }
             }
           }
@@ -155,8 +155,9 @@
   },
   "active": "0e1bdd6c84f6ffc2",
   "lastOpenFiles": [
-    "Cards/概念扩展.md",
+    "+ Encounters/+ 关于 Encounters.md",
     "Atlas/概念 MOC.md",
+    "Cards/概念扩展.md",
     "Cards/反脆弱性.md",
     "Cards/功能强制.md",
     "Cards/影分身.md",
@@ -166,7 +167,6 @@
     "Atlas/+ 关于 Atlas.md",
     "+ Encounters/运用三角测量原理进行意义建构.md",
     "+ Encounters/艾尔登法环.md",
-    "+ Encounters/+ 关于 Encounters.md",
     "README.md",
     "LYT 工具包.md",
     "+ Encounters/我们早就发现了外星人……只是称它们为蜜蜂而已.md",
